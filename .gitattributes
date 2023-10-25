@@ -1,0 +1,7 @@
+assets/data/data5_chiriin filter=lfs diff=lfs merge=lfs -text
+assets/data/garden filter=lfs diff=lfs merge=lfs -text
+assets/data/layer filter=lfs diff=lfs merge=lfs -text
+assets/data/nagasaki filter=lfs diff=lfs merge=lfs -text
+assets/data/sample filter=lfs diff=lfs merge=lfs -text
+assets/data/data5 filter=lfs diff=lfs merge=lfs -text
+assets/data/data5_3d filter=lfs diff=lfs merge=lfs -text
